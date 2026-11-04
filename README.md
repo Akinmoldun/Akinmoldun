@@ -8,11 +8,11 @@ Reliable software, clean architecture, end-to-end type safety.
 
 **Using now**
 
-<img src="assets/stack-now.svg" width="100%" alt="Languages and tools I use" />
+<img src="stack-now.svg" width="100%" alt="Languages and tools I use" />
 
 **Learning next**
 
-<img src="assets/stack-next.svg" width="100%" alt="Technologies I am learning" />
+<img src="stack-next.svg" width="100%" alt="Technologies I am learning" />
 
 My best work is in the pinned repositories below.
 
