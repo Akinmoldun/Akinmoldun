@@ -68,8 +68,8 @@
 ### `~/ Metrics`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akinmoldun&show_icons=false&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinmoldun&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Akinmoldun&show_icons=false&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akinmoldun&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Top Languages" height="150" />
 </div>
 
 <br />
