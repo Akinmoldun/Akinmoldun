@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <style>
+    .marquee {
+      animation: scroll 15s linear infinite;
+    }
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+  </style>
+  <rect width="800" height="60" fill="#0d1117" rx="8" />
+  <g class="marquee">
+    <g>
+      <image href="https://skillicons.dev/icons?i=java" x="0" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=spring" x="50" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=postgres" x="100" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=kafka" x="150" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=docker" x="200" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=ts" x="250" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=go" x="300" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=python" x="350" y="10" width="40" height="40" />
+    </g>
+    <g transform="translate(400, 0)">
+      <image href="https://skillicons.dev/icons?i=java" x="0" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=spring" x="50" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=postgres" x="100" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=kafka" x="150" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=docker" x="200" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=ts" x="250" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=go" x="300" y="10" width="40" height="40" />
+      <image href="https://skillicons.dev/icons?i=python" x="350" y="10" width="40" height="40" />
+    </g>
+  </g>
+</svg>
