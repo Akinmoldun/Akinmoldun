@@ -93,7 +93,8 @@
 ### `~/ Metrics`
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=Akinmoldun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Akinmoldun&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="GitHub Streak" height="165" />
+  
   <img src="https://ghstats.dev/api/langs?username=Akinmoldun&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Top Languages" height="165" />
 </div>
 
