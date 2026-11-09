@@ -93,8 +93,8 @@
 ### `~/ Metrics`
 
 <div align="center">
-  <img src="stats.svg" alt="GitHub Stats" height="150" />
-  <img src="top-langs.svg" alt="Top Languages" height="150" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="150" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
 </div>
 
 <br />
