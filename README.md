@@ -93,8 +93,8 @@
 ### `~/ Metrics`
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="150" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
+  <img src="https://ghstats.dev/api/card?username=Akinmoldun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://ghstats.dev/api/langs?username=Akinmoldun&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Top Languages" height="165" />
 </div>
 
 <br />
